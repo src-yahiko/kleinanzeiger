@@ -40,7 +40,7 @@ def scrape(link, items):
                     .replace('Heute', datetime.today().strftime('%Y-%m-%d')) \
                     .replace('Gestern', (datetime.today() + timedelta(days=-1)).strftime('%Y-%m-%d'))
             else:
-                date = datetime.strptime((city.split(' ')[-1]), '%Y-%m-%d')
+                date = datetime.strptime((city.split(' ')[-1]), '%d.%m.%Y').strftime('%Y-%m-%d')
             district = ' '.join(city.split(',')[0].split(' ')[1:-1])
             price_tag = li.find('p', attrs={'class': 'aditem-main--middle--price'}).get_text().strip()\
                 .replace(',', '.')
