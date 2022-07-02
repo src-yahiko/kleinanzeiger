@@ -1,4 +1,4 @@
-on: [workflow_call]
+on: [push]
 name: Scrape and publish
 jobs:
  build:
