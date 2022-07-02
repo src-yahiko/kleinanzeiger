@@ -10,11 +10,8 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - uses: actions/setup-python@v3
-    - name: Build
        python -m pip install --upgrade pip
        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Build
-      run: npm install
     - name: Scrape
       run: python main.py
     - uses: mikeal/publish-to-github-action@master
