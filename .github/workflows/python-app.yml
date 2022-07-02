@@ -9,11 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
+    - name: Set up Python
     - uses: actions/setup-python@v3
-       python -m pip install --upgrade pip
-       if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Scrape
-      run: python main.py
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+    - run: |
+        pip install -r requirements.txt
+        python main.py
     - uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
