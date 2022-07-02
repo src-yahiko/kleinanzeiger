@@ -63,7 +63,7 @@ def scrape(link, items):
                 views=views,
                 article_id=link.split('/')[-1].split('-')[0]
             ).__dict__)
-            #print(len(items), title)
+            print(len(items), title)
             #return items
 
         next_page = soup.find('a', attrs={'class': 'pagination-next'})
