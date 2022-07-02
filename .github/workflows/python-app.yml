@@ -1,7 +1,7 @@
 # /.github/workflows/daily.yml
 on:
   schedule:
-    - cron:  '0 */4 * * *'
+    - cron:  '0 */1 * * *'
 name: Pull Data and Build
 jobs:
   build:
