@@ -37,7 +37,7 @@ def scrape(link, items):
             date = ""
             if city.find(',') >= 0:
                 date = city.split(',')[0].split(' ')[-1] \
-                    .replace('Heute', datetime.today().strftime("%Y-%m-%d"))) \
+                    .replace('Heute', datetime.today().strftime("%Y-%m-%d")) \
                     .replace('Gestern', (datetime.today() + timedelta(days=-1)).strftime("%Y-%m-%d"))
             else:
                 date = datetime.strptime((city.split(' ')[-1]), '%d.%m.%Y').strftime("%Y-%m-%d")
