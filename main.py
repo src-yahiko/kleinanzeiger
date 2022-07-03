@@ -54,7 +54,7 @@ def scrape(link, items):
             items.append(Kleinanzeige(
                 scrape_time=datetime.today().strftime("%Y-%m-%d-%H-%m"),
                 title=title,
-                date=date
+                date=date,
                 image=image,
                 district=district,
                 zipcode=zipcode,
