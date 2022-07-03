@@ -37,10 +37,10 @@ def scrape(link, items):
             date = ""
             if city.find(',') >= 0:
                 date = city.split(',')[0].split(' ')[-1] \
-                    .replace('Heute', datetime.today().strftime('%d.%m.%Y')) \
-                    .replace('Gestern', (datetime.today() + timedelta(days=-1)).strftime('%d.%m.%Y'))
+                    .replace('Heute', datetime.today().strftime("%Y-%m-%d"))) \
+                    .replace('Gestern', (datetime.today() + timedelta(days=-1)).strftime("%Y-%m-%d"))
             else:
-                date = datetime.strptime((city.split(' ')[-1]), '%d.%m.%Y')
+                date = datetime.strptime((city.split(' ')[-1]), '%d.%m.%Y').strftime("%Y-%m-%d")
             district = ' '.join(city.split(',')[0].split(' ')[1:-1])
             price_tag = li.find('p', attrs={'class': 'aditem-main--middle--price'}).get_text().strip()\
                 .replace(',', '.')
@@ -54,7 +54,7 @@ def scrape(link, items):
             items.append(Kleinanzeige(
                 scrape_time=datetime.today().strftime("%Y-%m-%d-%H-%m"),
                 title=title,
-                date=date.strftime("%Y-%m-%d"),
+                date=date
                 image=image,
                 district=district,
                 zipcode=zipcode,
