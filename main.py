@@ -7,7 +7,8 @@ from datetime import datetime, timedelta
 import sqlite3
 
 class Kleinanzeige:
-    def __init__(self, scrape_time, article_id, title, date, image, district, zipcode, price, price_fixed, views):
+    def __init__(self, scrape_date, scrape_time, article_id, title, date, image, district, zipcode, price, price_fixed, views):
+        self.scrape_date = scrape_date
         self.scrape_time = scrape_time
         self.article_id = article_id
         self.title = title
@@ -52,7 +53,8 @@ def scrape(link, items):
             sleep(2.2)
             views = json.loads(urlopen(Request(views_link, headers={'User-Agent': 'Mozilla/5.0'})).read())['numVisits']
             items.append(Kleinanzeige(
-                scrape_time=datetime.today().strftime("%Y-%m-%d-%H-%m"),
+                scrape_time=datetime.today().strftime("%H:%m"),
+                scrape_date=datetime.today().strftime("%Y-%m-%d"),
                 title=title,
                 date=date,
                 image=image,
