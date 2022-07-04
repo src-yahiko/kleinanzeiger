@@ -50,7 +50,7 @@ def scrape(link, items):
             price = price[0] if len(price) == 1 else None
             link = li.find('article')['data-href']
             views_link = 'https://www.ebay-kleinanzeigen.de/s-vac-inc-get.json?adId=' + link.split('/')[-1].split('-')[0]
-            sleep(2.2)
+            sleep(3)
             views = json.loads(urlopen(Request(views_link, headers={'User-Agent': 'Mozilla/5.0'})).read())['numVisits']
             items.append(Kleinanzeige(
                 scrape_time=datetime.today().strftime("%H:%m"),
