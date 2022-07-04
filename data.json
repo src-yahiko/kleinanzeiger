@@ -10,7 +10,7 @@
         "zipcode": "10315",
         "price": 90.0,
         "price_fixed": false,
-        "views": 21
+        "views": 22
     },
     {
         "scrape_date": "2022-07-04",
@@ -23,7 +23,7 @@
         "zipcode": "12049",
         "price": 155.0,
         "price_fixed": true,
-        "views": 24
+        "views": 25
     },
     {
         "scrape_date": "2022-07-04",
@@ -36,7 +36,7 @@
         "zipcode": "10315",
         "price": 135.0,
         "price_fixed": true,
-        "views": 25
+        "views": 27
     },
     {
         "scrape_date": "2022-07-04",
@@ -49,7 +49,7 @@
         "zipcode": "12049",
         "price": 109.0,
         "price_fixed": true,
-        "views": 91
+        "views": 92
     },
     {
         "scrape_date": "2022-07-04",
@@ -62,7 +62,7 @@
         "zipcode": "12053",
         "price": 160.0,
         "price_fixed": true,
-        "views": 146
+        "views": 147
     },
     {
         "scrape_date": "2022-07-04",
@@ -75,7 +75,7 @@
         "zipcode": "10115",
         "price": 60.0,
         "price_fixed": true,
-        "views": 63
+        "views": 64
     },
     {
         "scrape_date": "2022-07-04",
@@ -88,7 +88,7 @@
         "zipcode": "12049",
         "price": 94.0,
         "price_fixed": true,
-        "views": 96
+        "views": 97
     },
     {
         "scrape_date": "2022-07-04",
@@ -101,7 +101,7 @@
         "zipcode": "13349",
         "price": 149.0,
         "price_fixed": true,
-        "views": 112
+        "views": 113
     },
     {
         "scrape_date": "2022-07-04",
@@ -114,7 +114,7 @@
         "zipcode": "12683",
         "price": 79.0,
         "price_fixed": true,
-        "views": 50
+        "views": 51
     },
     {
         "scrape_date": "2022-07-04",
@@ -127,7 +127,7 @@
         "zipcode": "10318",
         "price": 65.0,
         "price_fixed": true,
-        "views": 123
+        "views": 124
     },
     {
         "scrape_date": "2022-07-04",
@@ -140,7 +140,7 @@
         "zipcode": "12049",
         "price": 105.0,
         "price_fixed": true,
-        "views": 102
+        "views": 103
     },
     {
         "scrape_date": "2022-07-04",
@@ -153,7 +153,7 @@
         "zipcode": "13347",
         "price": 65.0,
         "price_fixed": true,
-        "views": 292
+        "views": 293
     },
     {
         "scrape_date": "2022-07-04",
@@ -179,7 +179,7 @@
         "zipcode": "12163",
         "price": 90.0,
         "price_fixed": false,
-        "views": 76
+        "views": 77
     },
     {
         "scrape_date": "2022-07-04",
@@ -192,7 +192,7 @@
         "zipcode": "12437",
         "price": 60.0,
         "price_fixed": false,
-        "views": 135
+        "views": 136
     },
     {
         "scrape_date": "2022-07-04",
@@ -205,7 +205,7 @@
         "zipcode": "12685",
         "price": 160.0,
         "price_fixed": true,
-        "views": 99
+        "views": 100
     },
     {
         "scrape_date": "2022-07-04",
@@ -218,7 +218,7 @@
         "zipcode": "13437",
         "price": 299.0,
         "price_fixed": true,
-        "views": 137
+        "views": 138
     },
     {
         "scrape_date": "2022-07-04",
@@ -231,7 +231,7 @@
         "zipcode": "12487",
         "price": 115.0,
         "price_fixed": false,
-        "views": 109
+        "views": 110
     },
     {
         "scrape_date": "2022-07-04",
@@ -244,7 +244,7 @@
         "zipcode": "13439",
         "price": 90.0,
         "price_fixed": false,
-        "views": 173
+        "views": 174
     },
     {
         "scrape_date": "2022-07-04",
@@ -257,7 +257,7 @@
         "zipcode": "10409",
         "price": 149.0,
         "price_fixed": true,
-        "views": 184
+        "views": 185
     },
     {
         "scrape_date": "2022-07-04",
@@ -270,7 +270,7 @@
         "zipcode": "12349",
         "price": 90.0,
         "price_fixed": true,
-        "views": 176
+        "views": 177
     },
     {
         "scrape_date": "2022-07-04",
@@ -283,7 +283,7 @@
         "zipcode": "13585",
         "price": 420.0,
         "price_fixed": true,
-        "views": 103
+        "views": 104
     },
     {
         "scrape_date": "2022-07-04",
@@ -296,7 +296,7 @@
         "zipcode": "10437",
         "price": 189.0,
         "price_fixed": true,
-        "views": 187
+        "views": 188
     },
     {
         "scrape_date": "2022-07-04",
@@ -309,7 +309,7 @@
         "zipcode": "12101",
         "price": 80.0,
         "price_fixed": true,
-        "views": 54
+        "views": 55
     },
     {
         "scrape_date": "2022-07-04",
@@ -322,7 +322,7 @@
         "zipcode": "13125",
         "price": 65.0,
         "price_fixed": false,
-        "views": 172
+        "views": 173
     },
     {
         "scrape_date": "2022-07-04",
@@ -335,7 +335,7 @@
         "zipcode": "13595",
         "price": 90.0,
         "price_fixed": false,
-        "views": 271
+        "views": 272
     },
     {
         "scrape_date": "2022-07-04",
@@ -348,7 +348,7 @@
         "zipcode": "13585",
         "price": 150.0,
         "price_fixed": true,
-        "views": 330
+        "views": 331
     },
     {
         "scrape_date": "2022-07-04",
@@ -361,7 +361,7 @@
         "zipcode": "12679",
         "price": 119.0,
         "price_fixed": true,
-        "views": 169
+        "views": 170
     },
     {
         "scrape_date": "2022-07-04",
@@ -374,7 +374,7 @@
         "zipcode": "13158",
         "price": 74.0,
         "price_fixed": false,
-        "views": 274
+        "views": 275
     },
     {
         "scrape_date": "2022-07-04",
@@ -387,7 +387,7 @@
         "zipcode": "13585",
         "price": 125.0,
         "price_fixed": true,
-        "views": 253
+        "views": 254
     },
     {
         "scrape_date": "2022-07-04",
@@ -400,7 +400,7 @@
         "zipcode": "10781",
         "price": 50.0,
         "price_fixed": false,
-        "views": 124
+        "views": 125
     },
     {
         "scrape_date": "2022-07-04",
@@ -413,7 +413,7 @@
         "zipcode": "10317",
         "price": 99.0,
         "price_fixed": false,
-        "views": 314
+        "views": 315
     },
     {
         "scrape_date": "2022-07-04",
@@ -426,7 +426,7 @@
         "zipcode": "10317",
         "price": 129.0,
         "price_fixed": false,
-        "views": 305
+        "views": 306
     },
     {
         "scrape_date": "2022-07-04",
@@ -465,7 +465,7 @@
         "zipcode": "10409",
         "price": 100.0,
         "price_fixed": false,
-        "views": 87
+        "views": 88
     },
     {
         "scrape_date": "2022-07-04",
@@ -478,7 +478,7 @@
         "zipcode": "14055",
         "price": 109.0,
         "price_fixed": true,
-        "views": 566
+        "views": 567
     },
     {
         "scrape_date": "2022-07-04",
@@ -491,7 +491,7 @@
         "zipcode": "10315",
         "price": 90.0,
         "price_fixed": false,
-        "views": 21
+        "views": 22
     },
     {
         "scrape_date": "2022-07-04",
@@ -504,7 +504,7 @@
         "zipcode": "12049",
         "price": 155.0,
         "price_fixed": true,
-        "views": 24
+        "views": 25
     },
     {
         "scrape_date": "2022-07-04",
@@ -517,7 +517,7 @@
         "zipcode": "10315",
         "price": 135.0,
         "price_fixed": true,
-        "views": 25
+        "views": 27
     },
     {
         "scrape_date": "2022-07-04",
@@ -530,7 +530,7 @@
         "zipcode": "12049",
         "price": 109.0,
         "price_fixed": true,
-        "views": 91
+        "views": 92
     },
     {
         "scrape_date": "2022-07-04",
@@ -543,7 +543,7 @@
         "zipcode": "12053",
         "price": 160.0,
         "price_fixed": true,
-        "views": 146
+        "views": 147
     },
     {
         "scrape_date": "2022-07-04",
@@ -556,7 +556,7 @@
         "zipcode": "10115",
         "price": 60.0,
         "price_fixed": true,
-        "views": 63
+        "views": 64
     },
     {
         "scrape_date": "2022-07-04",
@@ -569,7 +569,7 @@
         "zipcode": "12049",
         "price": 94.0,
         "price_fixed": true,
-        "views": 96
+        "views": 97
     },
     {
         "scrape_date": "2022-07-04",
@@ -582,7 +582,7 @@
         "zipcode": "13349",
         "price": 149.0,
         "price_fixed": true,
-        "views": 112
+        "views": 113
     },
     {
         "scrape_date": "2022-07-04",
@@ -595,7 +595,7 @@
         "zipcode": "12683",
         "price": 79.0,
         "price_fixed": true,
-        "views": 50
+        "views": 51
     },
     {
         "scrape_date": "2022-07-04",
@@ -608,7 +608,7 @@
         "zipcode": "10318",
         "price": 65.0,
         "price_fixed": true,
-        "views": 123
+        "views": 124
     },
     {
         "scrape_date": "2022-07-04",
@@ -621,7 +621,7 @@
         "zipcode": "12049",
         "price": 105.0,
         "price_fixed": true,
-        "views": 102
+        "views": 103
     },
     {
         "scrape_date": "2022-07-04",
@@ -634,7 +634,7 @@
         "zipcode": "13347",
         "price": 65.0,
         "price_fixed": true,
-        "views": 292
+        "views": 293
     },
     {
         "scrape_date": "2022-07-04",
@@ -660,7 +660,7 @@
         "zipcode": "12163",
         "price": 90.0,
         "price_fixed": false,
-        "views": 76
+        "views": 77
     },
     {
         "scrape_date": "2022-07-04",
@@ -673,7 +673,7 @@
         "zipcode": "12437",
         "price": 60.0,
         "price_fixed": false,
-        "views": 135
+        "views": 136
     },
     {
         "scrape_date": "2022-07-04",
@@ -686,7 +686,7 @@
         "zipcode": "12685",
         "price": 160.0,
         "price_fixed": true,
-        "views": 99
+        "views": 100
     },
     {
         "scrape_date": "2022-07-04",
@@ -699,7 +699,7 @@
         "zipcode": "13437",
         "price": 299.0,
         "price_fixed": true,
-        "views": 137
+        "views": 138
     },
     {
         "scrape_date": "2022-07-04",
@@ -712,7 +712,7 @@
         "zipcode": "12487",
         "price": 115.0,
         "price_fixed": false,
-        "views": 109
+        "views": 110
     },
     {
         "scrape_date": "2022-07-04",
@@ -725,7 +725,7 @@
         "zipcode": "13439",
         "price": 90.0,
         "price_fixed": false,
-        "views": 173
+        "views": 174
     },
     {
         "scrape_date": "2022-07-04",
@@ -738,7 +738,7 @@
         "zipcode": "10409",
         "price": 149.0,
         "price_fixed": true,
-        "views": 184
+        "views": 185
     },
     {
         "scrape_date": "2022-07-04",
@@ -751,7 +751,7 @@
         "zipcode": "12349",
         "price": 90.0,
         "price_fixed": true,
-        "views": 176
+        "views": 177
     },
     {
         "scrape_date": "2022-07-04",
@@ -764,7 +764,7 @@
         "zipcode": "13585",
         "price": 420.0,
         "price_fixed": true,
-        "views": 103
+        "views": 104
     },
     {
         "scrape_date": "2022-07-04",
@@ -777,7 +777,7 @@
         "zipcode": "10437",
         "price": 189.0,
         "price_fixed": true,
-        "views": 187
+        "views": 188
     },
     {
         "scrape_date": "2022-07-04",
@@ -790,7 +790,7 @@
         "zipcode": "12101",
         "price": 80.0,
         "price_fixed": true,
-        "views": 54
+        "views": 55
     },
     {
         "scrape_date": "2022-07-04",
@@ -803,7 +803,7 @@
         "zipcode": "13125",
         "price": 65.0,
         "price_fixed": false,
-        "views": 172
+        "views": 173
     },
     {
         "scrape_date": "2022-07-04",
@@ -816,7 +816,7 @@
         "zipcode": "13595",
         "price": 90.0,
         "price_fixed": false,
-        "views": 271
+        "views": 272
     },
     {
         "scrape_date": "2022-07-04",
@@ -829,7 +829,7 @@
         "zipcode": "13585",
         "price": 150.0,
         "price_fixed": true,
-        "views": 330
+        "views": 331
     },
     {
         "scrape_date": "2022-07-04",
@@ -842,7 +842,7 @@
         "zipcode": "12679",
         "price": 119.0,
         "price_fixed": true,
-        "views": 169
+        "views": 170
     },
     {
         "scrape_date": "2022-07-04",
@@ -855,7 +855,7 @@
         "zipcode": "13158",
         "price": 74.0,
         "price_fixed": false,
-        "views": 274
+        "views": 275
     },
     {
         "scrape_date": "2022-07-04",
@@ -868,7 +868,7 @@
         "zipcode": "13585",
         "price": 125.0,
         "price_fixed": true,
-        "views": 253
+        "views": 254
     },
     {
         "scrape_date": "2022-07-04",
@@ -881,7 +881,7 @@
         "zipcode": "10781",
         "price": 50.0,
         "price_fixed": false,
-        "views": 124
+        "views": 125
     },
     {
         "scrape_date": "2022-07-04",
@@ -894,7 +894,7 @@
         "zipcode": "10317",
         "price": 99.0,
         "price_fixed": false,
-        "views": 314
+        "views": 315
     },
     {
         "scrape_date": "2022-07-04",
@@ -907,7 +907,7 @@
         "zipcode": "10317",
         "price": 129.0,
         "price_fixed": false,
-        "views": 305
+        "views": 306
     },
     {
         "scrape_date": "2022-07-04",
@@ -946,7 +946,7 @@
         "zipcode": "10409",
         "price": 100.0,
         "price_fixed": false,
-        "views": 87
+        "views": 88
     },
     {
         "scrape_date": "2022-07-04",
@@ -959,6 +959,6 @@
         "zipcode": "14055",
         "price": 109.0,
         "price_fixed": true,
-        "views": 566
+        "views": 567
     }
 ]
