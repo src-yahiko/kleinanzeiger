@@ -81,14 +81,14 @@ if __name__ == "__main__":
         json.dump(traffic, f, ensure_ascii=False, indent=4)
     connection = sqlite3.connect('db.sqlite')
     cursor = connection.cursor()
-    cursor.execute('Create Table if not exists Kleinanzeigen (scrape_time, title, published, image_url, district, zipcode, price, price_fixed, views, article_id)')
+    cursor.execute('Create Table if not exists Kleinanzeigen (scrape_date, scrape_time, title, published, image_url, district, zipcode, price, price_fixed, views, article_id)')
 
     traffic = json.load(open('data.json'))
-    columns = ['scrape_time', 'title', 'published', 'image_url', 'district', 'zipcode', 'price', 'price_fixed', 'views', 'article_id']
+    columns = ['scrape_date', 'scrape_time', 'title', 'published', 'image_url', 'district', 'zipcode', 'price', 'price_fixed', 'views', 'article_id']
     for row in traffic:
  #       print(row)
         keys = tuple(row[c] for c in columns)
-        cursor.execute('insert into Kleinanzeigen values(?,?,?,?,?,?,?,?,?,?)', keys)
+        cursor.execute('insert into Kleinanzeigen values(?,?,?,?,?,?,?,?,?,?,?)', keys)
 
     connection.commit()
     connection.close()
