@@ -1,7 +1,7 @@
 [
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2205612809",
         "title": "Gameboy Advance Spiele in OVP (Tony Hawk 2, ISS, Mech Platoon)",
         "published": "2022-09-09",
@@ -10,24 +10,11 @@
         "zipcode": "10961",
         "price": 50.0,
         "price_fixed": true,
-        "views": 22
+        "views": 23
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
-        "article_id": "2205609555",
-        "title": "Gameboy Advance SP AGS 101",
-        "published": "2022-09-09",
-        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/6e/6e588654-eb61-4d45-b56b-e4bb535d606b?rule=$_2.JPG",
-        "district": "Mitte",
-        "zipcode": "13359",
-        "price": 150.0,
-        "price_fixed": false,
-        "views": 15
-    },
-    {
-        "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2205606874",
         "title": "Gameboy Advance SP in blau",
         "published": "2022-09-09",
@@ -36,11 +23,11 @@
         "zipcode": "10961",
         "price": 80.0,
         "price_fixed": true,
-        "views": 45
+        "views": 56
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2204789715",
         "title": "Gameboy advance Final Fantasy V in ovp",
         "published": "2022-09-08",
@@ -49,37 +36,24 @@
         "zipcode": "12309",
         "price": 100.0,
         "price_fixed": true,
-        "views": 17
+        "views": 22
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2204573859",
         "title": "Nintendo Gameboy Advance GBA  in Schwarz im Top Zustand",
         "published": "2022-09-07",
-        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/d7/d780f95b-184d-455b-ae04-9c0f9cd0cbd0?rule=$_2.JPG",
+        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/85/8515ab1a-7212-4ea4-a7b2-91a80bb98ce2?rule=$_2.JPG",
         "district": "Neukölln",
         "zipcode": "12049",
-        "price": 79.0,
+        "price": 75.0,
         "price_fixed": true,
-        "views": 46
+        "views": 50
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
-        "article_id": "2204488579",
-        "title": "Yugioh Worldwide Edition + Karten SELTEN Nintendo Gameboy Advance",
-        "published": "2022-09-07",
-        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/2a/2a5625a0-54bf-4bc8-8119-8d67a5c0f4aa?rule=$_2.JPG",
-        "district": "Neukölln",
-        "zipcode": "12349",
-        "price": 50.0,
-        "price_fixed": true,
-        "views": 71
-    },
-    {
-        "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2204158273",
         "title": "Nintendo Gameboy Advance SP Black + 3 Spiele + Hüllen + Transport",
         "published": "2022-09-07",
@@ -88,11 +62,11 @@
         "zipcode": "12059",
         "price": 189.0,
         "price_fixed": true,
-        "views": 24
+        "views": 25
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2203576051",
         "title": "Gameboy Advance SP Pokémon Pikachu Edition AGS-001 +Ladekabel",
         "published": "2022-09-06",
@@ -101,11 +75,11 @@
         "zipcode": "12049",
         "price": 99.0,
         "price_fixed": true,
-        "views": 64
+        "views": 66
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2203001712",
         "title": "Gameboy Advance SP Arctic Blue",
         "published": "2022-09-06",
@@ -114,24 +88,11 @@
         "zipcode": "13595",
         "price": 79.0,
         "price_fixed": true,
-        "views": 79
+        "views": 80
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
-        "article_id": "2202971896",
-        "title": "Gameboy Advance + Super Mario Advance, Super Mario World 2",
-        "published": "2022-09-06",
-        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/ca/caead609-1821-4abe-8a27-a2a72853dcac?rule=$_2.JPG",
-        "district": "Neukölln",
-        "zipcode": "12353",
-        "price": 90.0,
-        "price_fixed": true,
-        "views": 53
-    },
-    {
-        "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2201369725",
         "title": "Gameboy Advance Sp",
         "published": "2022-09-04",
@@ -140,11 +101,11 @@
         "zipcode": "13439",
         "price": 180.0,
         "price_fixed": false,
-        "views": 76
+        "views": 77
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2200945673",
         "title": "Nintendo Gameboy Advance in grau im top Zustand",
         "published": "2022-09-04",
@@ -153,11 +114,11 @@
         "zipcode": "12101",
         "price": 80.0,
         "price_fixed": true,
-        "views": 63
+        "views": 64
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2200836889",
         "title": "Nintendo DS spiele Gameboy Advance spiele 13 Stück",
         "published": "2022-09-04",
@@ -166,11 +127,11 @@
         "zipcode": "12629",
         "price": 50.0,
         "price_fixed": true,
-        "views": 109
+        "views": 110
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2199375395",
         "title": "rebelstar Tactical Command Gameboy Advance sealed",
         "published": "2022-09-02",
@@ -179,11 +140,11 @@
         "zipcode": "13409",
         "price": 139.0,
         "price_fixed": false,
-        "views": 41
+        "views": 42
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2198467883",
         "title": "Gameboy Advance in Transparent-Gelb im Top Zustand!!!",
         "published": "2022-09-01",
@@ -192,11 +153,11 @@
         "zipcode": "12049",
         "price": 60.0,
         "price_fixed": true,
-        "views": 134
+        "views": 136
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2197129700",
         "title": "Nintendo Gameboy Advance SP Zelda Triforce AGS-101 Backlight",
         "published": "2022-08-30",
@@ -205,11 +166,11 @@
         "zipcode": "10315",
         "price": 149.0,
         "price_fixed": true,
-        "views": 176
+        "views": 178
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2196669375",
         "title": "Gameboy Advance SP Super Mario Edition",
         "published": "2022-08-30",
@@ -218,11 +179,11 @@
         "zipcode": "14197",
         "price": 200.0,
         "price_fixed": false,
-        "views": 88
+        "views": 89
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2196549937",
         "title": "Nintendo Gameboy Advance SP GBA +Netzt.+4Spiele(Mario3 usw.)",
         "published": "2022-08-30",
@@ -231,11 +192,11 @@
         "zipcode": "13347",
         "price": 100.0,
         "price_fixed": true,
-        "views": 181
+        "views": 183
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2194718306",
         "title": "Nintendo Gameboy Advance",
         "published": "2022-08-28",
@@ -244,24 +205,24 @@
         "zipcode": "12103",
         "price": 69.0,
         "price_fixed": true,
-        "views": 106
+        "views": 108
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2191984463",
         "title": "Nintendo Gameboy Advance SP IPS V2 Display",
         "published": "2022-08-25",
-        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/4e/4ec6c976-4f50-408b-a681-1b20706c8b3a?rule=$_2.JPG",
+        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/13/1321a933-7295-4e0a-8c09-10921b753d5c?rule=$_2.JPG",
         "district": "Wedding",
         "zipcode": "13349",
         "price": 159.0,
         "price_fixed": true,
-        "views": 218
+        "views": 219
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2189209852",
         "title": "Gameboy Advance, edelweiß beleuchtet mit IPS Display",
         "published": "2022-08-22",
@@ -270,11 +231,11 @@
         "zipcode": "10319",
         "price": 190.0,
         "price_fixed": false,
-        "views": 116
+        "views": 117
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2188894443",
         "title": "Gameboy Advance Sp mit Spielen",
         "published": "2022-08-21",
@@ -283,11 +244,11 @@
         "zipcode": "12279",
         "price": 150.0,
         "price_fixed": false,
-        "views": 116
+        "views": 117
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2187513831",
         "title": "Gameboy Advance SP mit Schlümpfe, WWE, Yu-Gi-Oh, bubble bobble",
         "published": "2022-08-20",
@@ -296,11 +257,11 @@
         "zipcode": "12043",
         "price": 80.0,
         "price_fixed": true,
-        "views": 175
+        "views": 177
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2179246042",
         "title": "Gameboy Advance SP Zelda Edition AGS 001+Ladekabel Top!",
         "published": "2022-08-10",
@@ -309,11 +270,11 @@
         "zipcode": "12049",
         "price": 90.0,
         "price_fixed": true,
-        "views": 425
+        "views": 426
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2174262429",
         "title": "Pokemon Smaragd gameboy advance gba ovp cib Pokémon",
         "published": "2022-08-04",
@@ -322,11 +283,11 @@
         "zipcode": "10115",
         "price": 95.0,
         "price_fixed": true,
-        "views": 581
+        "views": 582
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2169485520",
         "title": "Gameboy Advance SP",
         "published": "2022-07-29",
@@ -335,11 +296,11 @@
         "zipcode": "10178",
         "price": 130.0,
         "price_fixed": false,
-        "views": 266
+        "views": 267
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2166162379",
         "title": "Nintendo GameBoy Advance in Clear Grey mit 5 Spielen",
         "published": "2022-07-25",
@@ -348,11 +309,11 @@
         "zipcode": "12487",
         "price": 115.0,
         "price_fixed": false,
-        "views": 263
+        "views": 264
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2164684655",
         "title": "Gameboy advance",
         "published": "2022-07-23",
@@ -361,11 +322,11 @@
         "zipcode": "12057",
         "price": 200.0,
         "price_fixed": true,
-        "views": 242
+        "views": 243
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2164431893",
         "title": "Nes Classic Metroid für den Gameboy Advance",
         "published": "2022-07-23",
@@ -374,11 +335,11 @@
         "zipcode": "10557",
         "price": 60.0,
         "price_fixed": true,
-        "views": 215
+        "views": 216
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2159139436",
         "title": "Gameboy und Memory Card/ Game boy advance agb 001",
         "published": "2022-07-16",
@@ -387,11 +348,11 @@
         "zipcode": "12051",
         "price": 150.0,
         "price_fixed": true,
-        "views": 285
+        "views": 286
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2155523242",
         "title": "Gameboy advance",
         "published": "2022-07-12",
@@ -400,11 +361,11 @@
         "zipcode": "12169",
         "price": 60.0,
         "price_fixed": false,
-        "views": 282
+        "views": 283
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2104913602",
         "title": "Nintendo Gameboy advance Ips V2 Super Mario Bros",
         "published": "2022-05-14",
@@ -413,11 +374,11 @@
         "zipcode": "10437",
         "price": 189.0,
         "price_fixed": true,
-        "views": 492
+        "views": 494
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2027469474",
         "title": "Gameboy Advance gelb mit Spiel Yu-Gi-Oh! - Die heiligen Karten 0J",
         "published": "2022-02-19",
@@ -426,11 +387,11 @@
         "zipcode": "13125",
         "price": 65.0,
         "price_fixed": false,
-        "views": 461
+        "views": 462
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2013924375",
         "title": "Gameboy Advance Pokemon spiele grün, blau, rot",
         "published": "2022-02-06",
@@ -439,11 +400,11 @@
         "zipcode": "13585",
         "price": 150.0,
         "price_fixed": true,
-        "views": 691
+        "views": 692
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2012291522",
         "title": "GAMEBOY ADVANCE TRANSPARENT OVP ANLEITUNG 3 SPIELEN",
         "published": "2022-02-05",
@@ -452,11 +413,11 @@
         "zipcode": "12679",
         "price": 119.0,
         "price_fixed": true,
-        "views": 468
+        "views": 469
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1983281523",
         "title": "Gameboy Advance Pokemon,  Mario usw....",
         "published": "2022-01-08",
@@ -465,11 +426,11 @@
         "zipcode": "13585",
         "price": 125.0,
         "price_fixed": true,
-        "views": 562
+        "views": 563
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1953577598",
         "title": "Gameboy Advance Spiele",
         "published": "2021-12-05",
@@ -478,11 +439,11 @@
         "zipcode": "10781",
         "price": 50.0,
         "price_fixed": false,
-        "views": 396
+        "views": 397
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1947769004",
         "title": "GameBoy Advance GBA Konsole + 24 Spiele, Mario Land,Batman,Pacman",
         "published": "2021-11-29",
@@ -491,11 +452,11 @@
         "zipcode": "10317",
         "price": 99.0,
         "price_fixed": false,
-        "views": 616
+        "views": 617
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1947747201",
         "title": "GameBoy Advance GBA Konsole + Pokemon Pinball Rubin & Saphir.Game",
         "published": "2021-11-29",
@@ -504,11 +465,11 @@
         "zipcode": "10317",
         "price": 129.0,
         "price_fixed": false,
-        "views": 628
+        "views": 630
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1936852556",
         "title": "3 Gameboy Sammlung 288 Spiele advance clasik color",
         "published": "2021-11-19",
@@ -517,11 +478,24 @@
         "zipcode": "12459",
         "price": null,
         "price_fixed": false,
-        "views": 802
+        "views": 803
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
+        "article_id": "1887650822",
+        "title": "Gameboy advance +",
+        "published": "2021-09-30",
+        "image_url": "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/2HgAAOSwlzxhVddO/$_2.JPG",
+        "district": "Reinickendorf",
+        "zipcode": "13351",
+        "price": 125.0,
+        "price_fixed": false,
+        "views": 0
+    },
+    {
+        "scrape_date": "2022-09-09",
+        "scrape_time": "18:09",
         "article_id": "1675447099",
         "title": "Gameboy advance",
         "published": "2021-02-21",
@@ -530,11 +504,11 @@
         "zipcode": "10409",
         "price": 100.0,
         "price_fixed": false,
-        "views": 369
+        "views": 370
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1639856858",
         "title": "Nintendo Gameboy Advance SP Trival Limited Edition mit 3 Spielen",
         "published": "2021-01-20",
@@ -543,11 +517,11 @@
         "zipcode": "14055",
         "price": 109.0,
         "price_fixed": true,
-        "views": 888
+        "views": 889
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2205612809",
         "title": "Gameboy Advance Spiele in OVP (Tony Hawk 2, ISS, Mech Platoon)",
         "published": "2022-09-09",
@@ -556,24 +530,11 @@
         "zipcode": "10961",
         "price": 50.0,
         "price_fixed": true,
-        "views": 22
+        "views": 23
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
-        "article_id": "2205609555",
-        "title": "Gameboy Advance SP AGS 101",
-        "published": "2022-09-09",
-        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/6e/6e588654-eb61-4d45-b56b-e4bb535d606b?rule=$_2.JPG",
-        "district": "Mitte",
-        "zipcode": "13359",
-        "price": 150.0,
-        "price_fixed": false,
-        "views": 15
-    },
-    {
-        "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2205606874",
         "title": "Gameboy Advance SP in blau",
         "published": "2022-09-09",
@@ -582,11 +543,11 @@
         "zipcode": "10961",
         "price": 80.0,
         "price_fixed": true,
-        "views": 45
+        "views": 56
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2204789715",
         "title": "Gameboy advance Final Fantasy V in ovp",
         "published": "2022-09-08",
@@ -595,37 +556,24 @@
         "zipcode": "12309",
         "price": 100.0,
         "price_fixed": true,
-        "views": 17
+        "views": 22
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2204573859",
         "title": "Nintendo Gameboy Advance GBA  in Schwarz im Top Zustand",
         "published": "2022-09-07",
-        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/d7/d780f95b-184d-455b-ae04-9c0f9cd0cbd0?rule=$_2.JPG",
+        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/85/8515ab1a-7212-4ea4-a7b2-91a80bb98ce2?rule=$_2.JPG",
         "district": "Neukölln",
         "zipcode": "12049",
-        "price": 79.0,
+        "price": 75.0,
         "price_fixed": true,
-        "views": 46
+        "views": 50
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
-        "article_id": "2204488579",
-        "title": "Yugioh Worldwide Edition + Karten SELTEN Nintendo Gameboy Advance",
-        "published": "2022-09-07",
-        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/2a/2a5625a0-54bf-4bc8-8119-8d67a5c0f4aa?rule=$_2.JPG",
-        "district": "Neukölln",
-        "zipcode": "12349",
-        "price": 50.0,
-        "price_fixed": true,
-        "views": 71
-    },
-    {
-        "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2204158273",
         "title": "Nintendo Gameboy Advance SP Black + 3 Spiele + Hüllen + Transport",
         "published": "2022-09-07",
@@ -634,11 +582,11 @@
         "zipcode": "12059",
         "price": 189.0,
         "price_fixed": true,
-        "views": 24
+        "views": 25
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2203576051",
         "title": "Gameboy Advance SP Pokémon Pikachu Edition AGS-001 +Ladekabel",
         "published": "2022-09-06",
@@ -647,11 +595,11 @@
         "zipcode": "12049",
         "price": 99.0,
         "price_fixed": true,
-        "views": 64
+        "views": 66
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2203001712",
         "title": "Gameboy Advance SP Arctic Blue",
         "published": "2022-09-06",
@@ -660,24 +608,11 @@
         "zipcode": "13595",
         "price": 79.0,
         "price_fixed": true,
-        "views": 79
+        "views": 80
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
-        "article_id": "2202971896",
-        "title": "Gameboy Advance + Super Mario Advance, Super Mario World 2",
-        "published": "2022-09-06",
-        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/ca/caead609-1821-4abe-8a27-a2a72853dcac?rule=$_2.JPG",
-        "district": "Neukölln",
-        "zipcode": "12353",
-        "price": 90.0,
-        "price_fixed": true,
-        "views": 53
-    },
-    {
-        "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2201369725",
         "title": "Gameboy Advance Sp",
         "published": "2022-09-04",
@@ -686,11 +621,11 @@
         "zipcode": "13439",
         "price": 180.0,
         "price_fixed": false,
-        "views": 76
+        "views": 77
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2200945673",
         "title": "Nintendo Gameboy Advance in grau im top Zustand",
         "published": "2022-09-04",
@@ -699,11 +634,11 @@
         "zipcode": "12101",
         "price": 80.0,
         "price_fixed": true,
-        "views": 63
+        "views": 64
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2200836889",
         "title": "Nintendo DS spiele Gameboy Advance spiele 13 Stück",
         "published": "2022-09-04",
@@ -712,11 +647,11 @@
         "zipcode": "12629",
         "price": 50.0,
         "price_fixed": true,
-        "views": 109
+        "views": 110
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2199375395",
         "title": "rebelstar Tactical Command Gameboy Advance sealed",
         "published": "2022-09-02",
@@ -725,11 +660,11 @@
         "zipcode": "13409",
         "price": 139.0,
         "price_fixed": false,
-        "views": 41
+        "views": 42
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2198467883",
         "title": "Gameboy Advance in Transparent-Gelb im Top Zustand!!!",
         "published": "2022-09-01",
@@ -738,11 +673,11 @@
         "zipcode": "12049",
         "price": 60.0,
         "price_fixed": true,
-        "views": 134
+        "views": 136
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2197129700",
         "title": "Nintendo Gameboy Advance SP Zelda Triforce AGS-101 Backlight",
         "published": "2022-08-30",
@@ -751,11 +686,11 @@
         "zipcode": "10315",
         "price": 149.0,
         "price_fixed": true,
-        "views": 176
+        "views": 178
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2196669375",
         "title": "Gameboy Advance SP Super Mario Edition",
         "published": "2022-08-30",
@@ -764,11 +699,11 @@
         "zipcode": "14197",
         "price": 200.0,
         "price_fixed": false,
-        "views": 88
+        "views": 89
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2196549937",
         "title": "Nintendo Gameboy Advance SP GBA +Netzt.+4Spiele(Mario3 usw.)",
         "published": "2022-08-30",
@@ -777,11 +712,11 @@
         "zipcode": "13347",
         "price": 100.0,
         "price_fixed": true,
-        "views": 181
+        "views": 183
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2194718306",
         "title": "Nintendo Gameboy Advance",
         "published": "2022-08-28",
@@ -790,24 +725,24 @@
         "zipcode": "12103",
         "price": 69.0,
         "price_fixed": true,
-        "views": 106
+        "views": 108
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2191984463",
         "title": "Nintendo Gameboy Advance SP IPS V2 Display",
         "published": "2022-08-25",
-        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/4e/4ec6c976-4f50-408b-a681-1b20706c8b3a?rule=$_2.JPG",
+        "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/13/1321a933-7295-4e0a-8c09-10921b753d5c?rule=$_2.JPG",
         "district": "Wedding",
         "zipcode": "13349",
         "price": 159.0,
         "price_fixed": true,
-        "views": 218
+        "views": 219
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2189209852",
         "title": "Gameboy Advance, edelweiß beleuchtet mit IPS Display",
         "published": "2022-08-22",
@@ -816,11 +751,11 @@
         "zipcode": "10319",
         "price": 190.0,
         "price_fixed": false,
-        "views": 116
+        "views": 117
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2188894443",
         "title": "Gameboy Advance Sp mit Spielen",
         "published": "2022-08-21",
@@ -829,11 +764,11 @@
         "zipcode": "12279",
         "price": 150.0,
         "price_fixed": false,
-        "views": 116
+        "views": 117
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2187513831",
         "title": "Gameboy Advance SP mit Schlümpfe, WWE, Yu-Gi-Oh, bubble bobble",
         "published": "2022-08-20",
@@ -842,11 +777,11 @@
         "zipcode": "12043",
         "price": 80.0,
         "price_fixed": true,
-        "views": 175
+        "views": 177
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2179246042",
         "title": "Gameboy Advance SP Zelda Edition AGS 001+Ladekabel Top!",
         "published": "2022-08-10",
@@ -855,11 +790,11 @@
         "zipcode": "12049",
         "price": 90.0,
         "price_fixed": true,
-        "views": 425
+        "views": 426
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2174262429",
         "title": "Pokemon Smaragd gameboy advance gba ovp cib Pokémon",
         "published": "2022-08-04",
@@ -868,11 +803,11 @@
         "zipcode": "10115",
         "price": 95.0,
         "price_fixed": true,
-        "views": 581
+        "views": 582
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2169485520",
         "title": "Gameboy Advance SP",
         "published": "2022-07-29",
@@ -881,11 +816,11 @@
         "zipcode": "10178",
         "price": 130.0,
         "price_fixed": false,
-        "views": 266
+        "views": 267
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2166162379",
         "title": "Nintendo GameBoy Advance in Clear Grey mit 5 Spielen",
         "published": "2022-07-25",
@@ -894,11 +829,11 @@
         "zipcode": "12487",
         "price": 115.0,
         "price_fixed": false,
-        "views": 263
+        "views": 264
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2164684655",
         "title": "Gameboy advance",
         "published": "2022-07-23",
@@ -907,11 +842,11 @@
         "zipcode": "12057",
         "price": 200.0,
         "price_fixed": true,
-        "views": 242
+        "views": 243
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2164431893",
         "title": "Nes Classic Metroid für den Gameboy Advance",
         "published": "2022-07-23",
@@ -920,11 +855,11 @@
         "zipcode": "10557",
         "price": 60.0,
         "price_fixed": true,
-        "views": 215
+        "views": 216
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2159139436",
         "title": "Gameboy und Memory Card/ Game boy advance agb 001",
         "published": "2022-07-16",
@@ -933,11 +868,11 @@
         "zipcode": "12051",
         "price": 150.0,
         "price_fixed": true,
-        "views": 285
+        "views": 286
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2155523242",
         "title": "Gameboy advance",
         "published": "2022-07-12",
@@ -946,11 +881,11 @@
         "zipcode": "12169",
         "price": 60.0,
         "price_fixed": false,
-        "views": 282
+        "views": 283
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2104913602",
         "title": "Nintendo Gameboy advance Ips V2 Super Mario Bros",
         "published": "2022-05-14",
@@ -959,11 +894,11 @@
         "zipcode": "10437",
         "price": 189.0,
         "price_fixed": true,
-        "views": 492
+        "views": 494
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2027469474",
         "title": "Gameboy Advance gelb mit Spiel Yu-Gi-Oh! - Die heiligen Karten 0J",
         "published": "2022-02-19",
@@ -972,11 +907,11 @@
         "zipcode": "13125",
         "price": 65.0,
         "price_fixed": false,
-        "views": 461
+        "views": 462
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2013924375",
         "title": "Gameboy Advance Pokemon spiele grün, blau, rot",
         "published": "2022-02-06",
@@ -985,11 +920,11 @@
         "zipcode": "13585",
         "price": 150.0,
         "price_fixed": true,
-        "views": 691
+        "views": 692
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "2012291522",
         "title": "GAMEBOY ADVANCE TRANSPARENT OVP ANLEITUNG 3 SPIELEN",
         "published": "2022-02-05",
@@ -998,11 +933,11 @@
         "zipcode": "12679",
         "price": 119.0,
         "price_fixed": true,
-        "views": 468
+        "views": 469
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1983281523",
         "title": "Gameboy Advance Pokemon,  Mario usw....",
         "published": "2022-01-08",
@@ -1011,11 +946,11 @@
         "zipcode": "13585",
         "price": 125.0,
         "price_fixed": true,
-        "views": 562
+        "views": 563
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1953577598",
         "title": "Gameboy Advance Spiele",
         "published": "2021-12-05",
@@ -1024,11 +959,11 @@
         "zipcode": "10781",
         "price": 50.0,
         "price_fixed": false,
-        "views": 396
+        "views": 397
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1947769004",
         "title": "GameBoy Advance GBA Konsole + 24 Spiele, Mario Land,Batman,Pacman",
         "published": "2021-11-29",
@@ -1037,11 +972,11 @@
         "zipcode": "10317",
         "price": 99.0,
         "price_fixed": false,
-        "views": 616
+        "views": 617
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1947747201",
         "title": "GameBoy Advance GBA Konsole + Pokemon Pinball Rubin & Saphir.Game",
         "published": "2021-11-29",
@@ -1050,11 +985,11 @@
         "zipcode": "10317",
         "price": 129.0,
         "price_fixed": false,
-        "views": 628
+        "views": 630
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1936852556",
         "title": "3 Gameboy Sammlung 288 Spiele advance clasik color",
         "published": "2021-11-19",
@@ -1063,11 +998,24 @@
         "zipcode": "12459",
         "price": null,
         "price_fixed": false,
-        "views": 802
+        "views": 803
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
+        "article_id": "1887650822",
+        "title": "Gameboy advance +",
+        "published": "2021-09-30",
+        "image_url": "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/2HgAAOSwlzxhVddO/$_2.JPG",
+        "district": "Reinickendorf",
+        "zipcode": "13351",
+        "price": 125.0,
+        "price_fixed": false,
+        "views": 0
+    },
+    {
+        "scrape_date": "2022-09-09",
+        "scrape_time": "18:09",
         "article_id": "1675447099",
         "title": "Gameboy advance",
         "published": "2021-02-21",
@@ -1076,11 +1024,11 @@
         "zipcode": "10409",
         "price": 100.0,
         "price_fixed": false,
-        "views": 369
+        "views": 370
     },
     {
         "scrape_date": "2022-09-09",
-        "scrape_time": "12:09",
+        "scrape_time": "18:09",
         "article_id": "1639856858",
         "title": "Nintendo Gameboy Advance SP Trival Limited Edition mit 3 Spielen",
         "published": "2021-01-20",
@@ -1089,6 +1037,6 @@
         "zipcode": "14055",
         "price": 109.0,
         "price_fixed": true,
-        "views": 888
+        "views": 889
     }
 ]
